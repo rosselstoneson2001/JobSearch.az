@@ -1,0 +1,322 @@
+{
+  "vacancies": [
+    {
+      "id": 1,
+      "image": "https://storage.jobsearch.az/storage/pages/1724/huawei.svg",
+      "title": "Senior IT  Mütəxəssis",
+      "company": "Huawei Technologies Azerbaijan",
+      "description": {
+        "jobDescription": "Job description:",
+        "duty": "       Work closely with Sales and Presales teams and respond to their needs for demonstrating products to partners and customers.Act as the focal point in organizing Proof of Concept (PoC) tests as per the company guidelines and assure customer satisfaction and commitment to purchase.Assist partners and customers in service requests and use of Huawei tools, organize workshops and provide trainings whenever necessary.Lead project delivery and organize internal resources to make sure the projects are completed at the highest standard.Constantly study the products and act as technical expert in communication with partners and customers.Any additional tasks falling under the mission of fulfilling our promise to customers"
+      },
+      "require": "requirements:",
+      "requirements": "   At least 5 years hands-on experience as field IT engineer network and security or servers and storage, preferably a solid experience in both.Have experience in working in customer-centric teams.Ability to study advanced technical documentation and assessing quality and consistency of HLDs and LLDs.Have experience in organizing large-scale product demonstration activities for partners and potential customers.Frontline experience of communicating with IT teams of different levels and have project delivery experience.English language is a must, Russian is preferable",
+      "lastDate": "Son tarix 27 yan 2024    ",
+      "releaseDate": "27 Dek",
+      "variety": "PREMIUM",
+      "category": "Komputerləşmə və İKT",
+      "category1": "komputer",
+      "looks": "815",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 2,
+      "image": "https://storage.jobsearch.az/storage/pages/1880/accessbank.svg",
+      "title": "SQL Developer",
+      "company": "Access Bank",
+      "description": {
+        "jobDescription": "Job description:",
+        "duty": "    Optimizing large complicated SQL statements.Develop, implement, and optimize stored procedures and functions using T-SQL.Analyze existing SQL queries for performance improvements.Ensure the data quality and integrity in databases.Prepare documentation and specifications"
+      },
+      "require": "requirements:",
+      "requirements": "   Strong proficiency in SQL (Structured Query Language), including the ability to write complex queries, stored procedures, and triggers.Experience with BI tools such as Microsoft Power BI, Tableau, or other data visualization tools.Experience in database design and normalization principles.Skills in optimizing and tuning SQL queries for performance.Experience with Extract, Transform, Load (ETL) processes and tools",
+      "lastDate": " Son tarix 27 yan 2024",
+      "releaseDate": "27 Dek",
+      "variety": "PREMIUM",
+      "category": "Komputerləşmə və İKT",
+      "category1": "komputer",
+      "looks": "788",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 3,
+      "image": "https://storage.jobsearch.az/storage/pages/2541/ady.svg",
+      "title": "Referent (Ələt qəsəbəsi)",
+      "company": "Azərbaycan Dəmir Yolları",
+      "description": {
+        "jobDescription": "Vəzifə öhdəlikləri:",
+        "duty": "     Müəsisə rəhbərinin işinin təmin edilməsi və ona xidmət göstərilməsi üzrə texniki funksiyaları yerinə yetirmək.Rəhbərin keçirdiyi iclas və müşavirələrin hazırlanması üzrə işi (lazımi materialların toplanması, iştirakçıların vaxt, yer və gündəlik barədə xəbərdar edilməsi) həyata keçirmək, protokollar tərtib edib rəsmiləşdirmək.Kargüzarlığı aparmaq, daxil olan məlumatları qəbul etmək, qəbul edilmiş qaydaya müvafiq olaraq onun sistemləşdirilməsini həyata keçirmək.Rəhbərin imza etməsi üçün verilən sənədləri və işçilərin şəxsi ərizələrini qəbul etmək"
+      },
+      "lastDate": "Son tarix 09 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "PREMIUM",
+      "category": "Inzibati, Biznes və İdarəetmə",
+      "category1": "biznes",
+      "looks": "178",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 4,
+      "image": "https://storage.jobsearch.az/storage/pages/61045/lavka.svg",
+      "title": "1C Operator",
+      "company": "Lavka",
+      "description": {
+        "jobDescription": "Vəzifə öhdəlikləri:",
+        "duty": "     Minimum mühasibatlıq bacarığı və hesab planın bilgisi.1C –də yaradılan alış, satış, yerdəyişmə, anbar əməliyyatları və s. sənədlərin işlənməsi.1C istifadəçilərinə xidməti dəstək.Platformanın konfiqurasiyaları və standart mexanizmləri üzrə biliklər.1C hesabatların hazırlanması.1C proqramlaşdırma arzuolunandır.1C sertifikatı arzuolunandır.1C istifadəçilərin yaradılması və onlara lazım olan səlahiyyətlərin verilməsi.  "
+      },
+      "require": "requirements:",
+      "requirements": "     Ali təhsil.Excel orta səviyyədə bilmək.Çeviklik - biz işləri tez etməliyik və yaxşı etməliyik.Məsuliyyətli, nizamlı.Rus və ya İngilis dillidə orta səviyyədə bilmək üstünlük olacaq",
+      "lastDate": "Son tarix 30 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "PREMIUM",
+      "category": "Inzibati, Biznes və İdarəetmə",
+      "category1": "biznes",
+      "looks": "213",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 5,
+      "image": "https://storage.jobsearch.az/storage/pages/3136/carlsberg.svg",
+      "title": "Junior Brand Manager",
+      "company": "Carlsberg Azerbaijan",
+      "description": {
+        "jobDescription": "Main responsibilities:",
+        "duty": "     Manage activities of the brand according to approved strategy and plan.Prepare innovations and NPD strategy for discussion and approval.Analyses and controls key brand indicators – Share of market, volumes, financial KPIs, image KPIs etc.Supports effective communication with sales department and business development department and other departments of the company.Coordinate and control R&D process required for brand development and support.Analyzes media and BTL brand activities and provides recommendation upon further activations.Secures execution of Brand positioning and provides inputs in Brand Positioning revision.Control document workflow.Participate in companies social activities and projects"
+      },
+      "require": "requirements:",
+      "requirements": "     diploma of higher Education.аt least 2 years experience in commercial team.fluency in English(upper-intermediate) language.basic principles of marketing, branding and product promotion.knowledge of the situation on the beer market, trends, competitors' activities.organizational and communication skills.project management & analytical skills.basic understanding of financials.",
+      "lastDate": "Son tarix 30 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "PREMIUM",
+      "category": "Marketinq, reklam, çap və nəşriyyat",
+      "category1": "Reklam",
+      "looks": "175",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 6,
+      "image": "https://storage.jobsearch.az/storage/pages/5389/melissa-group.svg",
+      "title": "Marketinq mütəxəssis",
+      "company": "Melissa Group",
+      "description": {
+        "jobDescription": "Vəzifəyə dair tələblər:",
+        "duty": "Rəqəmsal, reklam, kommunikasiya və kreativ istiqamət üzrə təyin edilən tapşırıqların icrası.Qəbul olunmuş marketinq siyasətinə uyğun olaraq daimi bazar araşdırmalarının aparılması, bazar dinamikasını, rəqibləri və rəqib məhsullarının təqib edilməsi.Şirkətin marketinq siyasətinin inkişaf etdirilməsi ilə əlaqədar potensial strateji tərəfdaşlıq əlaqələrinin yaradılmasında iştirak etmək.Marka mesajının doğru kommunikasiya kanalları vasitəsi ilə hədəf kütləyə çatdırılması istiqamətində işlər.Partnyorlarla daim ünsiyyətdə olması və onlardan promo kampaniyaların keçirilməsi üçün dəstəyin əldə edilməsi.Marketinq kommunikasiyalarının effektivliyinin monitorinqi və hesabatı, aylıq marketinq fəaliyyətlərinin hesabatlarının hazırlanması və rəhbərliyə təqdim olunması.Mövcud və gələcək məhsullara qarşı bazar tələblərinin müəyyənləşdirilməsi, analitik təhlillərin aparılması istiqamətdə verilən tapşırıqların icrası.YENİ və mövcud məhsullar üzrə marketinq planlarının və layihələrinin işlənilməsi"
+      },
+      "require": "Tələblər:",
+      "requirements": "Marketinq və ya iqtisadiyyat sahəsində ali təhsilin bakalavr və ya maqistr təhsilinin olması.Marketinq sahəsində azı 1 il iş təcrübəsi.Tikinti sektorunda marketinq mütəxəssis vəzifəsi üzrə təcrübəyə malik olanlara üstünlük veriləcəkdir.Rus və ingilis dillərində yazılı və şifahi ünsiyyət qurma bacarığının olması.Marketinq fəaliyyətində effektiv nailiyyətlərə malik olması",
+      "lastDate": " Son tarix 29 yan 2024",
+      "releaseDate": "29 Dek",
+      "variety": "PREMIUM",
+      "category": "Marketinq, reklam, çap və nəşriyyat",
+      "category1": "Reklam",
+      "looks": "296",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 7,
+      "image": "https://storage.jobsearch.az/storage/pages/4896/jw-marriot.svg",
+      "title": "Guest Services Supervisor",
+      "company": "JW Marriott Absheron Baku",
+      "description": {
+        "jobDescription": "Job Description:",
+        "duty": "Anticipate guests' service needs, including asking questions of guests to better understand their needs and watching/listening to guest preferences and acting on them whenever possible.Welcome and acknowledge each and every guest with a smile, eye contact, and a friendly verbal greeting, using the guest's name when possible.Address guests' service needs in a professional, positive, and timely manner.Assist other employees to ensure proper coverage and prompt guest service.Provide assistance to individuals with disabilities, including assisting visually, hearing, or physically-impaired individuals within guidelines (e.g., escorting them when requested, using words to explain actions, writing directions on paper, moving objects out of the way, or offering access to Braille or TDD phones). Perform other reasonable job duties as requested by Manager."
+      },
+      "require": "requirements:",
+      "requirements": "High school diploma or GED; 1 year experience in the guest services, front desk, or related professional area.Fluent language skills (Azerbaijani, English, Russian).OPERA Hotel program knowledge, minimum 1 year Hotel experience.Flexible, guest oriented, hospitable, communicative",
+      "lastDate": "  Son tarix 30 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "YENİ",
+      "category": "Otel, İaşə, Turizm",
+      "category1": "otel",
+      "looks": "325",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 8,
+      "image": "https://storage.jobsearch.az/storage/pages/6053/pizza-mizza.svg",
+      "title": "Ofisiant",
+      "company": "Pizza Mizza",
+      "description": {
+        "jobDescription": "Job Description:",
+        "duty": "Müştərilərin qarşılanması və xidmət edilməsi.Menyuda olan bütün məhsulların çeşidi, qiyməti və həmin məhsulların tərkibi haqqında müştərilərə düzgün məlumatı təqdim etmək.Sifarişi düzgün qaydada qəbul etmək.Müştəri ilə standartlara uyğun nəzakətli şəkildə ünsiyyətin qurulması və müştərilərə yüksək səviyyədə xidmət göstərilməsi.Masaların təmizlənməsini, masa üstü avadanlıqların düzgün qoyuluşunu icra etmək.Müştərilər tərəfindən edilən şikayət/etirazları səbrlə dinləmək və müsbət həllini icra etmək.Orta çekin artırılmasınını təmin etmək"
+      },
+      "require": "requirements:",
+      "requirements": "High school diploma or GED; 1 year experience in the guest services, front desk, or related professional area.Fluent language skills (Azerbaijani, English, Russian).OPERA Hotel program knowledge, minimum 1 year Hotel experience.Flexible, guest oriented, hospitable, communicative",
+      "lastDate": "Son tarix 30 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "YENİ",
+      "category": "Otel, İaşə, Turizm",
+      "category1": "otel",
+      "looks": "353",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 9,
+      "image": "https://storage.jobsearch.az/storage/pages/4250/global-management-outsorce.svg",
+      "title": "Kiçik hüquqşünas",
+      "company": "Global Management",
+      "description": {
+        "jobDescription": "Job Description:",
+        "duty": "Tələb olunan müqavilələrin, hüquqi məsələlərlə bağlı məktubların, ərizələrin, şikayətlərin və digər hüquqi sənədlərin hazırlanması.Təqdim edilmiş müqavilələrin hüquqi ekspertizasının aparılması və hüquqi rəyin yazılması.Cəmiyyət tərəfindən bağlanması nəzərdə tutulan və Hüquq xidmətləri departamentinə yoxlanması üçün təqdim edilən müqavilələr və müqavilələrin ayrılmaz tərkib hissəsi olan əlavələri üzrə hüquqi rəylərin verilməsi.Hüquqi şəxsin təsis sənədlərinin və qanunvericlik əsasında digər zəruri sənədlərinin hazırlanması.Əmək qanunvericliyinə əsasən zəruri sənədlərin hazırlanması.Müəssisədaxili fəaliyyəti tənzimləyən normativ sənədlərə düzəliş və əlavələr edilməsi barədə təkliflərin hazırlanmas.Müdafiə və ya ittiham xarakterli məhkəmə işlərinin məqsədə uyğunluğunu müəyyən etmək üçün hüquqi sənədləri nəzərdən keçirilməsi və hüquqi rəyin hazırlanması.İddia ərizələrinin, apellyasiya və kassasiya şikayətlərinin yazılması.Məhkəmələrdə və ya dövlət orqanları qarşısında Cəmiyyətin təmsil edilməsi, cəmiyyətin və ya cəmiyyətin əməkdaşlıq etdiyi şəxslərin icrası bitmiş məhkəmə işlərinin hesabatlarının hazırlanması.Əqli mülkiyyət qanunlarına, Miqrasiya Məcəlləsinə, Azərbaycan Respublikasının qanunvericliyi ilə müəyyən olunmuş hallarda sahibkarlıq fəaliyyəti ilə məşğul olmaq üçün xüsusi icazə (lisenziya) sənədlərin alınması üçün müvafiq sənədlərin hazırlanması və müvafiq qurumlara müraciətin edilməsi, Cəmiyyətin təmsil olunması.Rəhbərliyin hüquqi işlərlə əlaqəli vermiş olduğu təlimatlarının yerinə yetirilməsi."
+      },
+      "require": "Tələblər:",
+      "requirements": "Hüquq fakultəsi üzrə bakalavr ali təhsili.Azərbaycan Respublikası Mülki, Mülki Prosessual, İnzibati, İnzibati Prosessual, Əmək Məcəllələrini yüksək səviyyədə bilməli.Azərbaycan dilində sərbəst və səlist danışıq və yazı yazmaq bacarığı (ingilis dili və rus dili üstünlükdür.Layihə hazırlamaq, hüquqi təhlil və danışıqlar aparmaq bacarığı.Detallara yüksək diqqət.MS Office proqramlarını (Word, Excel, Power Point), xüsusilə Word yüksək səviyyədə bilməli.Hüquq sahəsi üzrə təcrübəsi olan namizədlərə üstünlük verilir.",
+      "lastDate": "Son tarix 30 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "YENİ",
+      "category": "Hüquq və məhkəmə xidmətləri",
+      "category1": "huquq",
+      "looks": "290",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 10,
+      "image": "https://storage.jobsearch.az/storage/pages/3976/ferrum-logo-mini.svg",
+      "title": "Məhkəmə qərarlarının icrası üzrə hüquqşünas",
+      "company": "Ferrum Capital",
+      "description": {
+        "jobDescription": "Məhkəmə qərarlarının icrası üzrə hüquqşünas nə iş görür?",
+        "duty": "Qüvvəyə minmiş məhkəmə qərarlarının icrasını təmin etməklə bağlı müvafiq məcburi icra tədbirlərinin həyata keçirilməsi üçün İcra şöbələrində hüquqi şəxsi təmsil etmək.İcra işinin təmin edilməsi üçün prosesə, aylıq ödənişlərə nəzarət etmək və borclunun adına olan əmlakların və digər gəlirlərin müəyyən edilməsi üçün İcra məmurları tərəfindən müvafiq sorğuların verilməsini təmin etmək.Məhkəmə qərarına əsasən borclular ilə əlaqə yaratmaq və danışıqlar aparmaq.İcraatda olan və icraatı tamamlanmış məhkəmə və icra işlərinin uçotunu və saxlanmasını həyata keçirmək.Müvafiq məlumat bazası yaratmaq, hesabatlar hazırlamaq.İca şöbələri və məhkəmələrdə nümayəndə qismində iştirak etmək."
+      },
+      "require": "Tələblər:",
+      "requirements": "Hüquq sahəsində ali təhsil.Mükəmməl azərbaycan dili (rus dili arzu olunandır).Yüksək ünsiyyət qurma və komandada işləmək bacarığı.Təcrübə tələb olunmur.",
+      "lastDate": "Son tarix 30 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "YENİ",
+      "category": "Hüquq və məhkəmə xidmətləri",
+      "category1": "huquq",
+      "looks": "290",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 11,
+      "image": "https://storage.jobsearch.az/storage/pages/3232/celt-colleges-2.svg",
+      "title": "İngilis dili müəllimi (Həzi Aslanov filialı)",
+      "company": "Celt Colleges",
+      "description": {
+        "jobDescription": "Məhkəmə qərarlarının icrası üzrə hüquqşünas nə iş görür?",
+        "duty": "Qüvvəyə minmiş məhkəmə qərarlarının icrasını təmin etməklə bağlı müvafiq məcburi icra tədbirlərinin həyata keçirilməsi üçün İcra şöbələrində hüquqi şəxsi təmsil etmək.İcra işinin təmin edilməsi üçün prosesə, aylıq ödənişlərə nəzarət etmək və borclunun adına olan əmlakların və digər gəlirlərin müəyyən edilməsi üçün İcra məmurları tərəfindən müvafiq sorğuların verilməsini təmin etmək.Məhkəmə qərarına əsasən borclular ilə əlaqə yaratmaq və danışıqlar aparmaq.İcraatda olan və icraatı tamamlanmış məhkəmə və icra işlərinin uçotunu və saxlanmasını həyata keçirmək.Müvafiq məlumat bazası yaratmaq, hesabatlar hazırlamaq.İca şöbələri və məhkəmələrdə nümayəndə qismində iştirak etmək."
+      },
+      "require": "Tələblər:",
+      "requirements": "Hüquq sahəsində ali təhsil.Mükəmməl azərbaycan dili (rus dili arzu olunandır).Yüksək ünsiyyət qurma və komandada işləmək bacarığı.Təcrübə tələb olunmur.",
+      "lastDate": "Son tarix 29 yan 2024",
+      "releaseDate": "29 Dek",
+      "variety": "YENİ",
+      "category": " Təlim və tədris",
+      "category1": "telim",
+      "looks": "269",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 12,
+      "image": "https://storage.jobsearch.az/storage/pages/6053/pizza-mizza.svg",
+      "title": "Çağrı mərkəzinin rəhbəri",
+      "company": "Pizza Mizza",
+      "description": {
+        "jobDescription": "Tələblər:",
+        "duty": "Ali təhsil.Çağrı mərkəzinin rəhbəri kimi minimum 1 il təcrübə.Komanda idarəetmə təcrübəsi mütləqdir.MS Office, xüsusən Excel ilə yüksək səviyyədə işləmək bacarığı olmalıdır.Bakı şəhər üzrə əraziləri tanımalıdır və naviqasiya proqramlarından istifadə etmək bacarığı olmalıdır.Dil bilikləri: mütləq səlis azərbaycan dili və rus dili səlis danışıq.Komandada işləmək bacarığı.Punktual, çevik, məsuliyyətli, detallara diqqətli."
+      },
+      "require": "Tələblər:",
+      "requirements": "Çağrı mərkəzi bölməsinin işinin idarə olunması.Tələb olunan hesabatların hazırlanması və rəhbərliyə məlumat verilməsi.Danışıq etikasına əsasən, daxil olan zənglərin cavablandırılmasına nəzarət etmək və zəruri hallarda icra etmək.Təqdim edilmiş maliyyə və əməliyyat hədəflərinə çatmaq üçün işin təşkili.Çağrı mərkəzi heyətinin bilik və bacarığının inkişaf etdirilməsi.Müştərilərdən daxil olan sifarişlərin düzgün qəbul edilməsi və yönləndirilməsinə nəzarət edilməsi.Zəruri olduğu halda zəng vasitəsilə sorğuların icra olunması.WhatsApp və onlayn sayt üzərindən sifarişlərin qəbul edilməsinə nəzarət etmək.Müştərilərdən daxil olan təklif və şikayətlərin qəbul edilib, müvafiq şöbəyə yönləndirilməsinə nəzarət etmək.Çağrı Mərkəzi vasitəsilə satışların düzgün şəkildə həyata keçirilməsinə nəzarət etmək.Müştərilərə məhsul/endirim/aksiya/yeni açılmış filiallar barədə dəqiq və ətraflı məlumatın təqdim edilməsinə nəzarət etmək.Müştəri məmnuniyyəti üçün çalışmaq",
+      "lastDate": " Son tarix 30 yan 2024",
+      "releaseDate": "30 Dek",
+      "variety": "YENİ",
+      "category": " Təlim və tədris",
+      "category1": "telim",
+      "looks": "506",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 13,
+      "image": "https://storage.jobsearch.az/storage/pages/2502/azerfloat.svg",
+      "title": "Laboratoriya üzrə mütəxəssis",
+      "company": "AzerFloat",
+      "description": {
+        "jobDescription": "Vəzifə öhdəlikləri:",
+        "duty": "Təchiz olunmuş xammalın (qum, soda, dolomit və s.) tərkibindən nümunələr götürülməsi.Götürülmüş xammal nümunələrinin laboratoriyanın anbarında saxlanılmasının təmin edilməsi.Xammalın təyinatı üzrə laboratoriya avadanlıqlarından istifadə etməklə fiziki-kimyəvi analizlərinin aparılması.Əldə olunmuş analiz nəticələri barədə aktların tərtib edilməsi.Xammal və şüşə şıxtasından alınan analiz nəticələrinin məlumatlarının kompüterə daxil edilməsi və məlumatların verilənlər bazasında saxlanılmasının təmin edilməsi.Sahə ilə bağlı cədvəl və qrafiklərinin hazırlanması.Təyinatı üzrə tələb olunan texniki sənədləşmənin (gündəlik elektron jurnal və s.) aparılması.İstifadə olunan laboratoriya avadanlıqlarının düzgün istismarının və saxlanılmasının təmin edilməsi.Laboratoriya üçün lazım olan avadanlıqlar, cihazlar, materiallar, kimyəvi reaktivlər haqqında sifarişlərin verilməsi."
+      },
+      "require": "Tələblər:",
+      "requirements": "Ali təhsil-kimya üzrə.Tədqiq və ya sintez edilən maddələrin kimyəvi xassələrini bilmək.Maddələrin kimyəvi və fiziki analiz üsullarını bilmək.Laboratoriya avadanlığının və nəzarət-ölçü aparatlarının istismar qaydalarını bilmək.Nəzarət-ölçü cihazları ilə işləyə bilmək.Müvafiq vəzifədə istehsalat müəssisələrində minimum 1 il iş təcrübəsi.MS Office.Azərbaycan dili (əla) Rus dili (yaxşı), İngilis dili (yaxşı)",
+      "lastDate": " Son tarix 15 yan 2024",
+      "releaseDate": "15 Dek",
+      "variety": "YENİ",
+      "category": " Elm, riyaziyyat və statistika",
+      "category1": "elm",
+      "looks": "1.1K",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 14,
+      "image": "https://storage.jobsearch.az/storage/pages/29932/ats-food.svg",
+      "title": "Laboratoriya Müdiri",
+      "company": "ATS Food",
+      "description": {
+        "jobDescription": "Vəzifədən gözləntilər: ",
+        "duty": "Laboratoriyaya ümumi rəhbərlik, yeni iş təlimatlarının hazırlanması, analiz və sınaqların aparılmasının keyfiyyətinə nəzarət, xüsusi analizlərin aparılması, hesabatların hazırlanması,Tabeçiliyində olan işçi heyətinə nəzarət etmək, onların fəaliyyətini istiqamətləndirmək və əlaqələndirmək.Digər struktur bölmələri ilə laboratoriyanın fəaliyyətini koordinasiya etmək, onların işdə qarşılıqlı əlaqəsini təmin etmək.İstehsalat bölmələrinin və avadanlıqlarının düzgün yuyulmasına, yuyucu və dezinfeksiya edici vasitələrin normaya uyğun olaraq istifadə edilməsinə nəzarət etmək.Analiz metodlarının müəyyən edilməsini, formaların tərtib edilməsini, iş təlimatlarının hazırlanmasını təşkil etmək.Laboratoriya qeydlərinin yığılması, mühafizə edilməsi, gizli tutulması və arxivə göndərilməsini təmin etmək.Laboratoriyanın akkreditasiya sənədlərini hazırlamaq və baş verən yeniliklərin həmin sənədlərdə əks olunmasını təmin etmək.Laboratoriyada istifadə olunan ölçü vasitələrinin, cihazların vaxtaşırı dövlət sınağından və kalibrləmədən keçirilməsini təmin etmək.Aşkar edilmiş uyğunsuzluqların aradan qaldırılması istiqamətində tədbirlər görmək."
+      },
+      "require": "Tələblər:",
+      "requirements": "Təhsil səviyyəsi: Ali təhsil (Kimya, biologiya və ya qida mühəndisliyi sahəsində).İş təcrübəsi: Laboratoriya/Keyfiyyətə Nəzarət sahəsi üzrə idarəetmə istiqamətində 3 il təcrübə.Kompüter bilikləri:  MS Office proqramları üzrə biliklər",
+      "lastDate": "  Son tarix 06 yan 2024",
+      "releaseDate": "06 Dek",
+      "variety": "YENİ",
+      "category": " Elm, riyaziyyat və statistika",
+      "category1": "elm",
+      "looks": "843",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+    },
+    {
+      "id": 15,
+      "image": "https://storage.jobsearch.az/storage/pages/27797/crystal.svg",
+      "title": "Təkərçi",
+      "company": "Crystal Group",
+      "description": {
+        "jobDescription": "Əsas vəzifə öhdəlikləri:",
+        "duty": "Avtonəqliyyat vasitələrinin təkərlərinin cari və əsaslı təmirinin yerinə yetirlməsi.İstismara buraxılan avtonəqliyyat vasitələrinin təkərlərinin yoxlanılması.Bilavasitə birbaşa rəhbərinin digər göstərişlərini öz səlahiyyəti çərçivəsində keyfiyyətlə və vaxtı-vaxtında yerinə yetirməyi."
+      },
+      "require": "Tələblər:",
+      "requirements": "İxtisası üzrə orta və ya texniki peşə təhsil.Minimum 1 il müvafiq sahədə iş təcrübəsi.",
+      "lastDate": "  Son tarix 18 yan 2024",
+      "releaseDate": "18 Dek",
+      "variety": "YENİ",
+      "category": " Qaraj xidmətləri",
+      "category1": "qarac",
+      "looks": "270",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+    },
+    {
+      "id": 16,
+      "image": "https://storage.jobsearch.az/storage/pages/8365/azprotein-foods-group.svg",
+      "title": "Keyfiyyətə nəzarət üzrə inspektor",
+      "company": "Azprotein Foods Group",
+      "description": {
+        "jobDescription": "Əsas vəzifə öhdəlikləri:",
+        "duty": "Müəssisənin istehsal etdiyi məhsulların keyfiyyətə nəzarət prosesinin izlənilməsi, icra edilməsi,Xammalın qəbulundan son məhsuladək olan mərhələləri nəzarət altında saxlamaq və müvafiq sənədləşmə işlərini icra etmək,İstehsalat prosesinin bütün mərhələlərində xammalın, hazır məhsulun müştərilərə göndərilənədək müəssisənin bölmələrində və anbarlarda saxlanmasının düzgünlüyünə nəzarət etmək,Prosedur və təlimatlara, sanitar-gigyena norma və qaydalarına riayət edilməsinə nəzrət və təmin etmək, Qida təhlükəsziliyi və keyfiyyətə nəzarət üzrə yoxlamalar keçirmək,Fəaliyyəti ilə bağlı mütəmadi olaraq birbaşa rəhbərinə hesabatlar hazırlayıb təqdim etmək,Uyğun olmayan məhsullarla bağlı birbaşa rəhbərə mlumat vermək,Əmək müqaviləsi ilə üzərinə götürdüyü vəzifə və öhdəlikləri vaxtında və lazımınca icra etmək."
+      },
+      "require": "Tələblər:",
+      "requirements": "Ali təhsil: Qida mühəndisliyi, Kimya, Mikrobiologiya və ya bunlara uyğun ixtisaslar,Sertifikat: İSO 9001:2015, İSO 22000 və İSO 17025 standartının tələblərini bilməsi, bu sahədə təlim almış olması və müvafiq sertifikatlara sahib olması arzu olunandır.Təcrübə 1-2 il,Əməyin mühafizəsi, qida təhlükəsizliyi və sanitar gigiyena mövzularında məlumatlı olmalı,MS Office programları (Word,  Excell, Outlook), 1C proqramı üzrə ilkin biliklər.",
+      "lastDate": "  Son tarix 21 yan 2024",
+      "releaseDate": "21 Dek",
+      "variety": "YENİ",
+      "category": "Qaraj xidmətləri",
+      "category1": "qarac",
+      "looks": "815",
+      "aboutCompany": "Şirkət haqqında",
+      "companyDesc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+    }
+  ]
+}

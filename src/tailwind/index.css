@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Brutal Type W00 Black";
+    src: url("https://db.onlinewebfonts.com/t/05f3740b974846198c00d1a5d17f3494.eot");
+    src: url("https://db.onlinewebfonts.com/t/05f3740b974846198c00d1a5d17f3494.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/05f3740b974846198c00d1a5d17f3494.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/05f3740b974846198c00d1a5d17f3494.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/05f3740b974846198c00d1a5d17f3494.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/05f3740b974846198c00d1a5d17f3494.svg#Brutal Type W00 Black")format("svg");
+}
